@@ -1,5 +1,6 @@
 #ESTETIKA ML
 Machine Learning Model Development
+![estetika-header-image](https://github.com/ESTETIKA-2023/ESTETIKA-ML/assets/99968495/e6f4dd19-062c-4d93-86de-4d94c4065eec)
 
 ## Overview
 This repository contains code for developing a deep learning model for image classification using the TensorFlow and Keras libraries. The model is designed to classify images into 22 different classes, including various types of batik and non-batik categories. The project includes data preprocessing, model training, evaluation, and deployment.
