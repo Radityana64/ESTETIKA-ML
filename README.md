@@ -40,3 +40,28 @@ The model is evaluated on the test set, and performance metrics such as accuracy
 
 Model Deployment
 The trained model is saved in the 'Models' folder and can be used for making predictions on new images.
+
+Usage
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/your-username/your-repository.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd your-repository
+Install dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
+Run the Jupyter notebooks in the 'Notebooks' folder to explore and execute different stages of the project.
+
+Use the saved model in the 'Models' folder for making predictions on new images.
+
+Acknowledgments
+This project was developed as part of the Capstone Project for Machine Learning.
+The dataset used in this project is sourced from [provide_dataset_source] (replace with the actual source).
+Feel free to explore the notebooks and scripts to understand the development process and customize it according to your requirements.
