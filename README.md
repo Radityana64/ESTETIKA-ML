@@ -4,24 +4,27 @@ Machine Learning Model Development
 ## Overview
 This repository contains code for developing a deep learning model for image classification using the TensorFlow and Keras libraries. The model is designed to classify images into 22 different classes, including various types of batik and non-batik categories. The project includes data preprocessing, model training, evaluation, and deployment.
 
-Folder Structure
-Dataset: Contains the training, validation, and test datasets for the machine learning model.
-Notebooks: Jupyter notebooks for different stages of the project, including data exploration, model development, and evaluation.
-Models: Saved models in h5 format.
-Results: Output files, plots, and evaluation results.
-Scripts: Python scripts for specific tasks or utilities.
-Requirements
-Python 3.x
-TensorFlow
-Keras
-NumPy
-Matplotlib
-scikit-learn
+## Folder Structure
+-Dataset: Contains the training, validation, and test datasets for the machine learning model.
+-Notebooks: Jupyter notebooks for different stages of the project, including data exploration, model development, and evaluation.
+-Models: Saved models in h5 format.
+-Results: Output files, plots, and evaluation results.
+-Scripts: Python scripts for specific tasks or utilities.
+
+## Requirements
+-Python 3.x
+-TensorFlow
+-Keras
+-NumPy
+-Matplotlib
+-scikit-learn
+
 Install dependencies using:
 
-bash
-Copy code
+'''bash
 pip install -r requirements.txt
+'''
+
 Data
 The dataset is organized into training, validation, and test sets. Each set contains images of various batik types and non-batik images.
 
