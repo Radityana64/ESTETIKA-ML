@@ -1,5 +1,7 @@
-Capstone Project: Machine Learning Model Development
-Overview
+#ESTETIKA ML
+Machine Learning Model Development
+
+## Overview
 This repository contains code for developing a deep learning model for image classification using the TensorFlow and Keras libraries. The model is designed to classify images into 22 different classes, including various types of batik and non-batik categories. The project includes data preprocessing, model training, evaluation, and deployment.
 
 Folder Structure
